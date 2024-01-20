@@ -1,9 +1,14 @@
 .login-form {
-  max-width: 200px;
+  border: 5px dotted blue;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.login-form {
+  max-width: 300px;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgb(27, 180, 24);
-  border: 20% soild double #a0457d;
+  background-color: #82ea1a;
 }
 
 .login-heading {
